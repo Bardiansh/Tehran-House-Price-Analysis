@@ -9,7 +9,8 @@ This interactive Power BI dashboard analyzes housing data from Tehran, including
   - Total number of listings
   - Average price (Rial)
   - Average price (USD)
-- Bar chart: Top 20 most expensive districts by average price
+  - Elevator - Praking Percentage per House
+- Bar chart: Top 22 most expensive districts by average price
 - Scatter plot: Relationship between area and price
 
 ### 🔹 Page 2 – Features Analysis
