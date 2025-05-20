@@ -32,13 +32,6 @@ This interactive Power BI dashboard analyzes housing data from Tehran, including
 - `dashboard_screenshot_1.png`, `dashboard_screenshot_2.png` → Screenshots of both dashboard pages
 - `README.md` → This file
 
-## 📷 How to Export Dashboard Screenshots
-1. In Power BI Desktop, go to your desired **report page** (e.g. "Overview").
-2. Click anywhere outside of the visuals to **deselect**.
-3. Press **Windows + Shift + S** → Select the area of the screen where the dashboard is shown.
-4. Save as `dashboard_screenshot_1.png` or `dashboard_screenshot_2.png`
-5. Upload these files to your GitHub repository along with the `.pbix` file.
-
 ---
 
 🎉 Feel free to fork, explore, or enhance the project. Contributions are welcome!
